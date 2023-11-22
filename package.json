@@ -1,0 +1,21 @@
+{
+  "name": "ruihuag",
+  "displayName": "ruihuag",
+  "description": "主题",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ruihuag",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ruihuag-color-theme.json"
+      }
+    ]
+  }
+}
