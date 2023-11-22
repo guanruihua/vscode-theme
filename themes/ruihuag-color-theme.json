@@ -1,7 +1,7 @@
 {
 	"name": "ruihuag",
 	"colors": {
-		"editor.foreground": "#000000",
+		"editor.foreground": "#ffffff",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"editor.background": "#000000",
 		"panel.background": "#000000",
