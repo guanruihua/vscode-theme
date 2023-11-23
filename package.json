@@ -2,8 +2,8 @@
   "name": "ruihuag",
   "displayName": "ruihuag",
   "publisher": "ruihuag",
-  "description": "主题",
-  "version": "0.0.3",
+  "description": "VSCode 主题",
+  "version": "0.0.4",
   "icon": "images/pkq.png",
   "engines": {
     "vscode": "^1.84.0"

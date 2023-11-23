@@ -1,7 +1,7 @@
 {
 	"name": "ruihuag",
 	"colors": {
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#dbdbdb",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"editor.background": "#000000",
 		"panel.background": "#000000",
@@ -15,18 +15,18 @@
 		"statusBar.background": "#000000",
 		"sideBar.background": "#000000",
 		"activityBar.background": "#000000",
-		"activityBar.activeBorder": "#ffffff",
+		"activityBar.activeBorder": "#dbdbdb",
 		"activityBar.foreground": "#74cdf0",
 		"activityBarBadge.background": "#ff0000",
-		"activityBarBadge.foreground": "#ffffff",
+		"activityBarBadge.foreground": "#dbdbdb",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"tab.activeBorder": "#74cdf0",
 		"tab.hoverBackground": "#5e5d5d",
 		"tab.activeBorderTop": "#74cdf0",
-		"tab.activeForeground": "#ffffff",
+		"tab.activeForeground": "#dbdbdb",
 		"tab.activeBackground": "#000000",
 		"tab.inactiveBackground": "#000000",
-		"tab.activeModifiedBorder": "#ffffff",
+		"tab.activeModifiedBorder": "#dbdbdb",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#000000",
 		"titleBar.activeForeground": "#92d5f0",
@@ -37,11 +37,15 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"keyword.control",
+				"comment.line",
+				"punctuation.definition.comment",
+				"editorOverviewRuler.commentForeground",
+				"commentForeground"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#b2e281"
 			}
 		},
 		{
@@ -60,7 +64,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#59cab1"
 			}
 		},
 		{
@@ -76,18 +80,16 @@
 		{
 			"name": "Keyword, Storage",
 			"scope": [
-				"keyword",
 				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#69d2ff"
 			}
 		},
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -191,7 +193,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#59cab1"
 			}
 		},
 		{
@@ -200,7 +202,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#0fbbff"
 			}
 		},
 		{
