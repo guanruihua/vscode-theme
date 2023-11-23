@@ -37,14 +37,22 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"keyword.control",
 				"comment.line",
 				"punctuation.definition.comment",
 				"editorOverviewRuler.commentForeground",
 				"commentForeground"
 			],
 			"settings": {
-				"foreground": "#b1e28177"
+				"foreground": "#b1e281a3"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#b1e281d1"
 			}
 		},
 		{
@@ -380,7 +388,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#49b0ff"
 			}
 		},
 		{
@@ -443,7 +451,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
