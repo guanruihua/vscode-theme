@@ -3,7 +3,7 @@
   "displayName": "ruihuag",
   "publisher": "ruihuag",
   "description": "VSCode 主题",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "icon": "images/pkq.png",
   "engines": {
     "vscode": "^1.84.0"
