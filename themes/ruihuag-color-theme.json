@@ -43,7 +43,7 @@
 				"commentForeground"
 			],
 			"settings": {
-				"foreground": "#b1e281a3"
+				"foreground": "#b1e2816c"
 			}
 		},
 		{
@@ -52,7 +52,7 @@
 				"keyword.control",
 			],
 			"settings": {
-				"foreground": "#b1e281d1"
+				"foreground": "#9ce281d1"
 			}
 		},
 		{
@@ -184,7 +184,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ffffff"
 			}
 		},
 		{
